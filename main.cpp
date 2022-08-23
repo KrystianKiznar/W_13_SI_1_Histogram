@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Histogram.h"
 #include "TextReader.h"
+#include <gtest/gtest.h>
 
 int main() {
 	std::cout << "No to jedziemy\n";
